@@ -1,0 +1,17 @@
+.card1 {
+    color: white;
+    font-family: sans-serif;
+    border: 1px solid white;
+    background: gray;
+    width: 350px;
+    height: 650px;
+}
+
+#coconut {
+    border: 1px solid black;
+}
+
+#coconut:hover {
+    transition: 2s;
+    transform: scale(110%);
+}
